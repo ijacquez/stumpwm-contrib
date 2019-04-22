@@ -1,0 +1,3 @@
+[submodule "base16-stumpwm"]
+	path = base16-stumpwm
+	url = https://github.com/tpine/base16-stumpwm.git
